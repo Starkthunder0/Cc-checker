@@ -1,2 +1,0 @@
-# Cc-checker
-Checekr
